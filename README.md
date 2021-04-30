@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @julien
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Symfony, PHP
 - 💞️ I’m looking to collaborate on open source PHP projets
-- 📫 How to reach me ...
 
 <!---
 julienhoste-lbc/julienhoste-lbc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
