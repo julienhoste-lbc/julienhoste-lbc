@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julien
-- 👀 I’m interested in Symfony, PHP
+- 👀 I’m interested in Golang, PHP
 - 💞️ I’m looking to collaborate on open source PHP projets
 
 <!---
